@@ -2,8 +2,8 @@
   <img src="./assets/banner.jpeg" width="100%" alt="Banner" />
 </p>
 
-# 💫 About Me:
-Hi, I'm Devansh !<br>🛠️ Python Developer passionate about building robust web applications, optimizing database performance, and integrating generative AI workflows.<br>⚡ Experienced with Python, FastAPI, Flask, PostgreSQL, Docker, and MongoDB.<br> Always exploring clean architecture, API optimization, and scalable backend solutions.<br><br>🔭 I’m currently working on: AI-powered applications, fast RESTful APIs, and optimizing LLM retrieval pipelines.   <br> I’m currently learning: Containerization with Docker, CI/CD pipelines, and system design  
+# About Me:
+Hi, I'm Devansh !<br> Python Developer passionate about building robust web applications, optimizing database performance, and integrating generative AI workflows.<br> Experienced with Python, FastAPI, Flask, PostgreSQL, Docker, and MongoDB.<br> Always exploring clean architecture, API optimization, and scalable backend solutions.<br><br> I’m currently working on: AI-powered applications, fast RESTful APIs, and optimizing LLM retrieval pipelines.   <br> I’m currently learning: Containerization with Docker, CI/CD pipelines, and system design  
 ###
 ###
 
